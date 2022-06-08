@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/border.xml" value="0.1645" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.13139329805996472" />
+        <entry key="app/src/main/res/layout-sw600dp/activity_main.xml" value="0.10635696821515893" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17175051924111187" />
+        <entry key="app/src/main/res/layout/border.xml" value="0.11305007587253414" />
+        <entry key="app/src/main/res/layout/my_edit_text_border.xml" value="0.10280728376327769" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
